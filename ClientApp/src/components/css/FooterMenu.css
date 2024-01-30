@@ -1,0 +1,20 @@
+﻿footer.py-5 {
+    background-color: #212529;
+    color: #ffffff;
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+
+#navBorder {
+    border-right: solid 1px gray;
+    margin-right: 10px;
+}
+
+.container-fluid-footer {
+    padding: 0;
+}
+
+.nav-link {
+    margin-left: 0;
+    margin-right: 10px;
+}

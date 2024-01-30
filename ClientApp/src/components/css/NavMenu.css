@@ -1,0 +1,35 @@
+﻿.logo-container {
+    margin-right: 15px;
+    z-index: 10;
+    flex-shrink: 0;
+}
+
+/* Logo styling */
+.logo-img {
+    height: 60px;
+    object-fit: contain;
+}
+
+/* For å dekke hele header-høyden */
+.navbar {
+    flex-grow: 1;
+}
+
+img {
+    width: 100px;
+    height: auto;
+}
+
+
+.nav-link {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.container-fluid.menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; /* For vertikal sentrering */
+    padding-left: 3rem;
+    padding-right: 3rem;
+}

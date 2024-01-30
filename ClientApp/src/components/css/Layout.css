@@ -1,0 +1,12 @@
+﻿.hoved {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.flex-grow-container {
+    flex-grow: 1;
+}
+
+
+

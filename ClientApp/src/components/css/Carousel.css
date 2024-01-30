@@ -1,0 +1,20 @@
+﻿.carousel-inner img {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.carousel-caption h5 {
+    font-size: 3vw;
+}
+
+.carousel-caption p {
+    font-size: 2vw;
+}
+
+.carousel-caption {
+    bottom: 50%;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+    border-radius: 5px;
+}
